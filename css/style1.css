@@ -1,0 +1,45 @@
+
+
+
+/*anchor*/
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+/**/
+.logy {
+    margin: 10px;
+    color: white;
+}
+/*searchform*/
+.form-control1 {
+    margin-right: 10px;
+}
+
+.d-flex1 {
+    width: 30%;
+    border: 10px;
+    margin: 20px auto;
+}
+/*table*/
+th,
+td {
+    text-align: center;
+}
+td {
+    vertical-align: middle;
+}
+/*edit delete btns*/
+.btn1 {
+    width: 75px;
+}
+
+.add {
+    width: 70%;
+}
+
+

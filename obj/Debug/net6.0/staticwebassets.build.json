@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Ls4w06bpBsSiI1xRH0mv7cvCSq4M5aNVuvAiEf0WWSs=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "D:\\ASP.NET\\MVC & API\\MVC & Web API ITI\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET\\MVC & API\\MVC & Web API ITI\\WebAPI\\WebAPI\\wwwroot\\HtmlConsumer.html",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\MVC & API\\MVC & Web API ITI\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "HtmlConsumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HtmlConsumer.html"
+    },
+    {
+      "Identity": "D:\\ASP.NET\\MVC & API\\MVC & Web API ITI\\WebAPI\\WebAPI\\wwwroot\\userlist.html",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\MVC & API\\MVC & Web API ITI\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "userlist.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userlist.html"
+    }
+  ]
+}
