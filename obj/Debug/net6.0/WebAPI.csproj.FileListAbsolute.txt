@@ -136,3 +136,4 @@ D:\ASP.NET\MVC & API\MVC & Web API ITI\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\
 D:\ASP.NET\MVC & API\MVC & Web API ITI\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
 D:\ASP.NET\MVC & API\MVC & Web API ITI\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 D:\ASP.NET\MVC & API\MVC & Web API ITI\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\ASP.NET\MVC & API\MVC & Web API ITI\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.sourcelink.json
