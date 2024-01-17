@@ -4,11 +4,13 @@ using Microsoft.EntityFrameworkCore;
 using WebAPI.Models;
 using WebAPI.DTO;
 using System.Xml.Linq;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class DepartmentController : ControllerBase
     {
         private readonly ITIEntity context;
